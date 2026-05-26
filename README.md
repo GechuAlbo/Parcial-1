@@ -34,8 +34,6 @@ Portafolio personal de **Geronimo Tobio**, diseñador gráfico. Un sitio web pro
 
 ## 🚀 Publicación en GitHub Pages
 
-### Opción 1: GitHub Pages (Recomendado)
-
 1. **Crear un repositorio en GitHub**
    ```
    Nombre: tu-usuario.github.io
@@ -61,42 +59,6 @@ Portafolio personal de **Geronimo Tobio**, diseñador gráfico. Un sitio web pro
    - Source: main branch
    - Tu sitio estará en: `https://tu-usuario.github.io` o `https://tu-usuario.github.io/portfolio-lab`
 
-### Opción 2: Netlify
-
-1. **Crear cuenta en Netlify** (https://netlify.com)
-
-2. **Drag & Drop**
-   - Ir a https://app.netlify.com/sites
-   - Arrastrar carpeta con los archivos
-   - Automáticamente genera URL
-
-3. **O conectar GitHub**
-   - Conectar repositorio GitHub
-   - Netlify despliega automáticamente
-
-### Opción 3: Vercel
-
-1. **Crear cuenta en Vercel** (https://vercel.com)
-
-2. **Importar proyecto**
-   - Conectar repositorio GitHub
-   - Click en Deploy
-   - URL automática generada
-
-## 📋 Checklist de Actividades
-
-- [x] 1. Presentación de trayectoria, intereses y referentes
-- [x] 2. Estructura semántica (h1, h2, p, a) con CSS externos
-- [x] 3. 2+ tipografías Google Fonts (Playfair Display + Poppins)
-- [x] 4. Texto optimizado para lectura en pantalla (max-width: 65ch)
-- [x] 5. Imágenes optimizadas (logo personal)
-- [x] 6. Enlaces externos (GitHub, Instagram, Portafolio)
-- [x] 7. Atribuciones de autoría (Google Fonts, logo, video)
-- [x] 8. Licencia CC BY-SA 4.0 embebida en HTML
-- [x] 9. Segunda página HTML (multimedia.html) con video YouTube
-- [x] 10. Navegación interna bidireccional
-- [ ] 11. Publicar en GitHub/Netlify/Vercel
-
 ## 🎨 Paleta de Colores
 
 ```css
@@ -115,7 +77,7 @@ Portafolio personal de **Geronimo Tobio**, diseñador gráfico. Un sitio web pro
 
 ## 🔗 Enlaces
 
-- **Portfolio completo**: https://gertobio.myportfolio.com/
+- **Portfolio Adobe**: https://gertobio.myportfolio.com/
 - **GitHub**: https://github.com/GechuAlbo
 - **Instagram**: https://www.instagram.com/gerchutobio/
 
@@ -138,6 +100,6 @@ Más info: https://creativecommons.org/licenses/by-sa/4.0/
 
 ---
 
-**Última actualización**: 2025
+**Última actualización**: 2026
 **Autor**: Geronimo Tobio
 **Materia**: Laboratorio Digital
